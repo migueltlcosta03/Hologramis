@@ -1,0 +1,9 @@
+.navbar {
+    background-color: pink !important;
+}
+
+#loginButton {
+    background-color: plum;
+    border: 0px solid plum;
+    border-radius: 5px;
+}
