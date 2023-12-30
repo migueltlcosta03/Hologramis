@@ -1,9 +1,19 @@
 .navbar {
-    background-color: pink !important;
+    font-family: 'Poppins', sans-serif;
+}
+.active {
+    color: plum !important;
 }
 
 #loginButton {
+    height: 4vh;
+    border: 1px solid plum;
+    border-radius: 20px;
+    font-size: 15px;
+    color: rgb(252, 116, 252);
+}
+
+#loginButton:hover {
     background-color: plum;
-    border: 0px solid plum;
-    border-radius: 5px;
+    color: white;
 }
