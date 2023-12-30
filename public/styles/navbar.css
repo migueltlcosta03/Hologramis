@@ -1,6 +1,11 @@
-.navbar {
+* {
     font-family: 'Poppins', sans-serif;
 }
+
+.navbar {
+    background-color: transparent;
+}
+
 .active {
     color: plum !important;
 }
